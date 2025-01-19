@@ -10,4 +10,4 @@ El conversor de monedas permite que el usuario pueda convertir de
 5) reales brasileños (BRL) a dolares estadounidenses (USD) y
 6) reales brasileños (BRL) a pesos argentinos (ARS).
 
-Al ejecutar el conversor de monedas, el usuario elige una de las opciones presentadas, escribe el valor que quiere convertir y la aplicación le da el valor convertido. La última opción, "7) Salir", termina la ejecutación de la aplicación.
+Al ejecutar el conversor de monedas, el usuario elige una de las opciones presentadas, escribe el valor que quiere convertir y la aplicación le da el valor convertido. La última opción, "7) Salir", termina la ejecución de la aplicación.
